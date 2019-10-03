@@ -1,2 +1,0 @@
-*.txt
-real_praw.ini
