@@ -53,7 +53,7 @@ def main():
 	# The subreddit to search
 	subreddit = reddit.subreddit(SUB_TO_SEARCH)
 
-	# Iterate over the top 30 posts in Hot
+	# Iterate over the top 100 posts in Hot
 	for submission in subreddit.hot(limit=100):
 
 		# Check the post has not already been replied to (id is unique for each post)
