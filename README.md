@@ -42,3 +42,6 @@ username=
 user_agent=
 ```
 You will need to change the last five lines to the information obtained from the script you created at https://www.reddit.com/prefs/apps/ and your reddit account infromation. The user agent can be anything.
+
+
+*sampe_bot.py* shows how the bot could work for the /r/ireland subreddit and the domain rte.ie 
